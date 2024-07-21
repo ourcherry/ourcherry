@@ -5,7 +5,7 @@
 </div>
 
 
-## 💖 ᴍʏᴋᴜʀᴏᴍɪ'ꜱ ᴘʀᴏꜰɪʟᴇ
+## 💖 ᴏᴜʀᴄʜᴇʀʀʏ's ᴘʀᴏғɪʟᴇ
 
 ```javascript
 const ourcherry = {
