@@ -10,8 +10,8 @@
 ```javascript
 const ourcherry = {
   name: "Heera",
-  role: "Web Developer",
-  skills: [Javascript, React, ASP.NET, Java, C#, SQL],
+  role: "Software engineer",
+  skills: [TypeScript, React, Next.js, ASP.NET, Java, C#, SQL],
   education: {
                 university: "Korea National Open University",
                 major: "Computer science",
