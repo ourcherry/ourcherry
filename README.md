@@ -6,19 +6,28 @@
 
 
 ## 💖 ᴏᴜʀᴄʜᴇʀʀʏ's ᴘʀᴏғɪʟᴇ
+> Full-stack software engineer interested in web architecture and emerging AI research.
 
 ```javascript
 const ourcherry = {
   name: "Heera",
   role: "Software engineer",
-  skills: [TypeScript, React, Next.js, ASP.NET, Java, C#, SQL],
+  skills: [TypeScript, React, Next.js, Java, ASP.NET, C#, SQL],
+  researchInterest: ["EEG signal analysis", "Explainable AI(XAI)"],
   education: {
-                university: "Korea National Open University",
-                major: "Computer science",
-                degree: "Bachelor"
-             }
+    university: "Korea National Open University",
+    major: "Computer science",
+    degree: "Bachelor"
+  }
 }
 ```
+<br>
+
+
+## ✨ ᴄᴜʀʀᴇɴᴛʟʏ
+
+- 🔭 Working mainly on **TypeScript / Next.js** based web projects
+- 🧠 Studying **EEG signal analysis** & **Explainable AI (XAI)**
 <br>
 
 
@@ -71,13 +80,17 @@ const ourcherry = {
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black"/>
     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/>
   </div>
+</div><div name="research">
+  <h4>ʀᴇꜱᴇᴀʀᴄʜ · ʟᴇᴀʀɴɪɴɢ</h4>
+  <img src="https://img.shields.io/badge/EEG-5A5A5A?style=for-the-badge&logo=braintrust&logoColor=white"/>
+  <img src="https://img.shields.io/badge/XAI-6A5ACD?style=for-the-badge&logo=googlecolab&logoColor=white"/>
 </div>
 <br>
 <br>
 
 ## 🩰 ꜱᴛᴀᴛᴜꜱ
 
-![ourcherry's github stats](https://github-readme-stats.vercel.app/api?username=ourcherry&show_icons=true&theme=dracula)
+![stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ourcherry&theme=dracula)
 <br>
 <br>
 
