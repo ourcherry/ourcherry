@@ -14,12 +14,11 @@ const ourcherry = {
   role: "Software engineer",
   skills: [TypeScript, React, Next.js, Java, ASP.NET, C#, SQL],
   researchInterest: ["EEG signal analysis", "Explainable AI(XAI)"],
-  education: [
-    {
-      school: "Pukyong National University",
-      degree: "M.S. in Artificial Intelligence",
-      status: "Currently Enrolled"
-    },
+  education: {
+    school: "Pukyong National University",
+    degree: "M.S. in Computer Science",
+    status: "Currently Enrolled"
+  },
 }
 ```
 <br>
